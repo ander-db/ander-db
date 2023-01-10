@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ander</h1>
-<h3 align="center">Softwre Developer</h3>
+<h3 align="center">Blockchain & Software Developer</h3>
 
-- 🌱 I’m currently learning **Hyperledger Fabric**
+- 🔭 I’m currently working on [Solbeatz](https://www.solbeatz.xyz/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ander-db](https://github.com/ander-db)
+- 🌱 I’m currently getting certified as **Kubernetes & Hyperledger Fabric Administrator**.
+
+- 👨‍💻 Some of my projects are available at [https://github.com/ander-db](https://github.com/ander-db)
 
 - 📝 I write articles on [https://medium.com/@anderdb](https://medium.com/@anderdb)
 
