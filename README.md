@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ander</h1>
-<h3 align="center">Blockchain & Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [Solbeatz](https://www.solbeatz.xyz/) & [Minte](https://www.minte.app/)
 
