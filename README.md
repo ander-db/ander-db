@@ -1,4 +1,4 @@
-<img src="../ander-db/.github/cover.png">
+<img src=".github/cover.png">
 
 <h1 align="center">Hi 👋, I'm Ander</h1>
 <h3 align="center">Software Developer</h3>
