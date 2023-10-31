@@ -1,13 +1,5 @@
-<img src=".github/cover.png">
-
 <h1 align="center">Hi 👋, I'm Ander</h1>
-<h3 align="center">Software Developer</h3>
-
-- 🔭 Founder of [Foundation](https://www.foundation.vision/)
-
-
-- 👨‍💻 Some of my projects are available at [https://github.com/ander-db](https://github.com/ander-db)
-
+<h3 align="center">MSc Artificial Intelligence</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
