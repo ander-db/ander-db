@@ -4,9 +4,11 @@
 
 <p align="center">
   Building and researching foundational models with a focus on:<br>
-  • Diffusion Models (DDPMs)<br>
-  • Flow Matching<br>
-  • Transformers<br><br>
+  • Diffusion Models (DDPMs) •<br> 
+  • Transformers and Attention Mechanisms •<br> 
+  • Flow Matching •<br>
+  • Surrogate Models •<br>
+  • PINNs •<br>
   Currently exploring applications in computer vision and materials generation.
 </p>
 
