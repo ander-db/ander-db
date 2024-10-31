@@ -9,7 +9,7 @@
   • Flow Matching •<br>
   • Surrogate Models •<br>
   • PINNs •<br>
-  Currently exploring applications in computer vision and materials generation.
+  Currently exploring applications in particle accelerators, computer vision and materials generation.
 </p>
 
 <h3 align="center">Let's Connect!</h3>
