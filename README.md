@@ -6,7 +6,7 @@
   Building and researching foundational models with a focus on:<br>
   • Diffusion Models (DDPMs)<br>
   • Flow Matching<br>
-  • Vision Transformers<br><br>
+  • Transformers<br><br>
   Currently exploring applications in computer vision and materials generation.
 </p>
 
