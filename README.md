@@ -22,23 +22,20 @@
   </a>
 </p>
 
+<br>
 
-<h3 align="center">Featured Projects</h3>
-<div align="center" style="max-width: 800px; margin: 20px auto;">
-  <table align="center" style="width: 100%; border-spacing: 20px;">
-    <tr>
-      <td align="center" width="70%" style="vertical-align: top;">
-        <a href="https://github.com/ander-db/DDPM-HSC">
-          <h4>DDPMs for Astronomical Image Enhancement</h4>
-          <img src=".github/banner_prediction.gif" alt="DDPM Project" style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
-      <td align="center" width="30%" style="vertical-align: top;">
-        <a href="https://github.com/ander-db/Transformers-PytorchLightning">
-          <h4>Transformers PyTorch Lightning</h4>
-          <img src=".github/transformers.webp" alt="Transformer Project" style="width: 100%; border-radius: 8px;">
-        </a>
-      </td>
-    </tr>
-  </table>
+<h2 align="center">Featured Projects</h3>
+
+<div align="center">
+  <h4>DDPMs for Astronomical Image Enhancement</h4>
+  <a href="https://github.com/ander-db/DDPM-HSC">
+    <img src=".github/banner_prediction.gif" alt="DDPM Project" height="300" style="display: block; margin: auto;">
+  </a>
+</div>
+
+<div align="center">
+  <h4>Transformers PyTorch Lightning</h4>
+  <a href="https://github.com/ander-db/Transformers-PytorchLightning">
+    <img src=".github/transformers.webp" alt="Transformer Project" height="300" style="display: block; margin: auto;">
+  </a>
 </div>
